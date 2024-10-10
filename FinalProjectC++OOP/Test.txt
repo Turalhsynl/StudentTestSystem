@@ -1,0 +1,14 @@
+Math
+1+1= ?,2
+Math
+2+2= ?,4
+English
+What type of article fo you know?,a/an/the
+Ders
+1+1= ?,2
+2+2= ?,4
+What type of article fo you know?,a/an/the
+1+1= ?,2
+2+2= ?,4
+What type of article fo you know?,a/an/the
+ders nedir,dersdir
